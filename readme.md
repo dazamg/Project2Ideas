@@ -15,6 +15,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 - User can be able to create a new recipe
 - User can be able to add a recipe to their favourites 
 - User can be able to delete a recipe from their favourites list 
+- User can be able to comment on a recipe
 - User can choose category/culture for a recipe
 - User can see the location and history of special recipes(optional)
 - Api - https://rapidapi.com/edamam/api/recipe-search-and-diet/endpoints
