@@ -36,7 +36,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-- https://lucid.app/documents/embeddedchart/e7506484-be08-483a-bac3-4f2fb0b3f5a0
+- https://lucid.app/documents/embeddedchart/5debda8c-17fb-41f7-a7d4-db867099fce6
 ----------------------------------------------------------
 ### User Stories
 
